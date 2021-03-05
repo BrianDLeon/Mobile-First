@@ -1,0 +1,17 @@
+:root {
+    /* Colores */
+    --azul: #1273f1;
+    --turquesa: #15bbd8;
+    --violeta: #722AF8;
+    --negro: #0e0e1a;
+    --blanco: #fff;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+}
