@@ -1,5 +1,4 @@
 :root {
-    /* Colores */
     --azul: #1273f1;
     --turquesa: #15bbd8;
     --violeta: #722AF8;
@@ -24,4 +23,16 @@ header {
     min-width: 320px;
     height: 334px;
     text-align: center;
+}
+header img {
+    width: 50%;
+    margin-top: 60px;
+    align-self: center;
+}
+.header--title-container {
+    width: 90%;
+    min-width: 288px;
+    max-width: 900px;
+    height: 218px;
+    margin-top: 50px;
 }
