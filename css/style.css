@@ -23,7 +23,6 @@ header {
     min-width: 320px;
     height: 334px;
     text-align: center;
-    background: rgb(186,70,238);
     background: linear-gradient(180deg, rgba(186,70,238,0.5298494397759104) 0%, rgba(61,153,182,0.5690651260504201) 48%, rgba(50,70,247,0.5270483193277311) 100%);
 }
 header img {
