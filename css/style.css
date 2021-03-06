@@ -1,5 +1,5 @@
 :root {
-    --azul: #1273f1;
+    --azul-oscuro: #0e4286;
     --turquesa: #15bbd8;
     --violeta: #722AF8;
     --negro: #0e0e1a;
@@ -44,4 +44,11 @@ header img {
     font-weight: bold;
     line-height: 2.6rem;
     color: var(--negro);
+}
+.header--title-container p {
+    margin-top: 25px;
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.8rem;
+    color: var(--azul-oscuro)
 }
