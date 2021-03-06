@@ -26,7 +26,7 @@ header {
     background: linear-gradient(180deg, rgba(186,70,238,0.5298494397759104) 0%, rgba(61,153,182,0.5690651260504201) 48%, rgba(50,70,247,0.5270483193277311) 100%);
 }
 header img {
-    width: 50%;
+    width: 250px;
     margin-top: 39px;
     align-self: center;
 }
@@ -77,4 +77,21 @@ header img {
     height: 8px;
     margin-left: 10px;
     background-image: url('../assets/icons/flecha.png');
+}
+main {
+    width: 100%;
+    height: auto;
+}
+.main-product-container {
+    width: 100%;
+    height: auto;
+    padding-top: 80px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.main-product-container--title {
+    width: 90%;
+    min-width: 288px;
+    max-width: 900px;
+    margin: 0 auto;
 }
